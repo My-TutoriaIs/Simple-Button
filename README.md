@@ -5,3 +5,7 @@ This HTML code creates a button element with the text "Click me!" inside it. Whe
 You can customize the appearance of the button using CSS.
 
 This CSS code I have provided in this respiratory will give the button a green background color, white text, and rounded corners. You can customize these styles to your liking to create the button that you want.
+
+EXAMPLE:
+
+![Rainbow Effect](https://raw.githubusercontent.com/My-TutoriaIs/Simple-Button/main/example.png)
